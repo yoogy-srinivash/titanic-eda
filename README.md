@@ -14,14 +14,3 @@ jupyter notebook notebooks/titanic_eda.ipynb
 	•	Females and 1st class passengers had higher survival rates
 	•	Traveling alone reduced survival probability
 	•	Children had comparatively higher survival rates
-
-## Repository  Strucute
-
-titanic-eda/
-├── data/                       # Titanic dataset (from Kaggle)
-│   └── train.csv
-├── notebooks/                  # Jupyter notebooks
-│   └── titanic_eda.ipynb       # Main EDA notebook
-├── README.md                   # Project documentation
-├── requirements.txt            # Python dependencies
-└── .gitignore                  # Files/folders ignored by Git
